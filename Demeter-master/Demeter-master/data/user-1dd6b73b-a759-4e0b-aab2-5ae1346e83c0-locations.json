@@ -1,0 +1,22 @@
+[
+  {
+    "userId": "1dd6b73b-a759-4e0b-aab2-5ae1346e83c0",
+    "country": "Germany",
+    "region": "Bavaria",
+    "coordinates": [
+      49.35375571830993,
+      11.77734375
+    ],
+    "timestamp": "2025-04-30T08:27:37.232Z"
+  },
+  {
+    "userId": "1dd6b73b-a759-4e0b-aab2-5ae1346e83c0",
+    "country": "Kyrgyzstan",
+    "region": "Naryn Oblasty",
+    "coordinates": [
+      41.4260466,
+      75.9656141
+    ],
+    "timestamp": "2025-04-30T08:29:53.607Z"
+  }
+]

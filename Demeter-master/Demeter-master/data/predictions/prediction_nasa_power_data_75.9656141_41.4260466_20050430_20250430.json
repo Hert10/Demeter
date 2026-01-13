@@ -1,0 +1,459 @@
+{
+  "success": true,
+  "forecast": [
+    {
+      "date": "2025-05-01",
+      "condition": "MODERATE_DROUGHT_RISK",
+      "confidence": 0.523531789857217,
+      "color": "#ffcc99",
+      "probabilities": {
+        "MODERATE_DROUGHT_RISK": 0.523531789857217,
+        "MODERATE_FLOOD_RISK": 0.00257881372673051,
+        "NORMAL": 0.06810094133693279,
+        "SEVERE_DROUGHT_RISK": 0.20748986354491117,
+        "SEVERE_FLOOD_RISK": 0,
+        "SLIGHT_DROUGHT_RISK": 0.1895500367762323,
+        "SLIGHT_FLOOD_RISK": 0.008748554757976184
+      }
+    },
+    {
+      "date": "2025-05-02",
+      "condition": "MODERATE_DROUGHT_RISK",
+      "confidence": 0.5271312965068696,
+      "color": "#ffcc99",
+      "probabilities": {
+        "MODERATE_DROUGHT_RISK": 0.5271312965068696,
+        "MODERATE_FLOOD_RISK": 0.00257881372673051,
+        "NORMAL": 0.06717503733859553,
+        "SEVERE_DROUGHT_RISK": 0.20748986354491117,
+        "SEVERE_FLOOD_RISK": 0,
+        "SLIGHT_DROUGHT_RISK": 0.187358339140429,
+        "SLIGHT_FLOOD_RISK": 0.008266649742464056
+      }
+    },
+    {
+      "date": "2025-05-03",
+      "condition": "MODERATE_DROUGHT_RISK",
+      "confidence": 0.5295568440036508,
+      "color": "#ffcc99",
+      "probabilities": {
+        "MODERATE_DROUGHT_RISK": 0.5295568440036508,
+        "MODERATE_FLOOD_RISK": 0.00257881372673051,
+        "NORMAL": 0.06416063013136188,
+        "SEVERE_DROUGHT_RISK": 0.20748986354491117,
+        "SEVERE_FLOOD_RISK": 0,
+        "SLIGHT_DROUGHT_RISK": 0.18794719885088146,
+        "SLIGHT_FLOOD_RISK": 0.008266649742464056
+      }
+    },
+    {
+      "date": "2025-05-04",
+      "condition": "MODERATE_DROUGHT_RISK",
+      "confidence": 0.5295568440036509,
+      "color": "#ffcc99",
+      "probabilities": {
+        "MODERATE_DROUGHT_RISK": 0.5295568440036509,
+        "MODERATE_FLOOD_RISK": 0.00257881372673051,
+        "NORMAL": 0.06416063013136188,
+        "SEVERE_DROUGHT_RISK": 0.20748986354491117,
+        "SEVERE_FLOOD_RISK": 0,
+        "SLIGHT_DROUGHT_RISK": 0.18794719885088146,
+        "SLIGHT_FLOOD_RISK": 0.008266649742464056
+      }
+    },
+    {
+      "date": "2025-05-05",
+      "condition": "MODERATE_DROUGHT_RISK",
+      "confidence": 0.5295568440036508,
+      "color": "#ffcc99",
+      "probabilities": {
+        "MODERATE_DROUGHT_RISK": 0.5295568440036508,
+        "MODERATE_FLOOD_RISK": 0.00257881372673051,
+        "NORMAL": 0.06416063013136188,
+        "SEVERE_DROUGHT_RISK": 0.20748986354491117,
+        "SEVERE_FLOOD_RISK": 0,
+        "SLIGHT_DROUGHT_RISK": 0.18794719885088146,
+        "SLIGHT_FLOOD_RISK": 0.008266649742464056
+      }
+    },
+    {
+      "date": "2025-05-06",
+      "condition": "MODERATE_DROUGHT_RISK",
+      "confidence": 0.5295568440036508,
+      "color": "#ffcc99",
+      "probabilities": {
+        "MODERATE_DROUGHT_RISK": 0.5295568440036508,
+        "MODERATE_FLOOD_RISK": 0.00257881372673051,
+        "NORMAL": 0.06416063013136188,
+        "SEVERE_DROUGHT_RISK": 0.20748986354491117,
+        "SEVERE_FLOOD_RISK": 0,
+        "SLIGHT_DROUGHT_RISK": 0.18794719885088146,
+        "SLIGHT_FLOOD_RISK": 0.008266649742464056
+      }
+    },
+    {
+      "date": "2025-05-07",
+      "condition": "MODERATE_DROUGHT_RISK",
+      "confidence": 0.5302578112883584,
+      "color": "#ffcc99",
+      "probabilities": {
+        "MODERATE_DROUGHT_RISK": 0.5302578112883584,
+        "MODERATE_FLOOD_RISK": 0.00257881372673051,
+        "NORMAL": 0.06419163019302314,
+        "SEVERE_DROUGHT_RISK": 0.2041565302115778,
+        "SEVERE_FLOOD_RISK": 0,
+        "SLIGHT_DROUGHT_RISK": 0.19054856483784596,
+        "SLIGHT_FLOOD_RISK": 0.008266649742464056
+      }
+    },
+    {
+      "date": "2025-05-08",
+      "condition": "MODERATE_DROUGHT_RISK",
+      "confidence": 0.5302578112883584,
+      "color": "#ffcc99",
+      "probabilities": {
+        "MODERATE_DROUGHT_RISK": 0.5302578112883584,
+        "MODERATE_FLOOD_RISK": 0.00257881372673051,
+        "NORMAL": 0.06419163019302314,
+        "SEVERE_DROUGHT_RISK": 0.2041565302115778,
+        "SEVERE_FLOOD_RISK": 0,
+        "SLIGHT_DROUGHT_RISK": 0.19054856483784596,
+        "SLIGHT_FLOOD_RISK": 0.008266649742464056
+      }
+    },
+    {
+      "date": "2025-05-09",
+      "condition": "MODERATE_DROUGHT_RISK",
+      "confidence": 0.606516008789119,
+      "color": "#ffff99",
+      "probabilities": {
+        "MODERATE_DROUGHT_RISK": 0.606516008789119,
+        "MODERATE_FLOOD_RISK": 0,
+        "NORMAL": 0.014485142377267375,
+        "SEVERE_DROUGHT_RISK": 0.23686950081641825,
+        "SEVERE_FLOOD_RISK": 0,
+        "SLIGHT_DROUGHT_RISK": 0.1373144156147564,
+        "SLIGHT_FLOOD_RISK": 0.0048149324024385366
+      }
+    },
+    {
+      "date": "2025-05-10",
+      "condition": "MODERATE_DROUGHT_RISK",
+      "confidence": 0.6037032914276342,
+      "color": "#ffff99",
+      "probabilities": {
+        "MODERATE_DROUGHT_RISK": 0.6037032914276342,
+        "MODERATE_FLOOD_RISK": 0,
+        "NORMAL": 0.014485142377267375,
+        "SEVERE_DROUGHT_RISK": 0.239682218177903,
+        "SEVERE_FLOOD_RISK": 0,
+        "SLIGHT_DROUGHT_RISK": 0.1373144156147564,
+        "SLIGHT_FLOOD_RISK": 0.0048149324024385366
+      }
+    },
+    {
+      "date": "2025-05-11",
+      "condition": "MODERATE_DROUGHT_RISK",
+      "confidence": 0.6037032914276342,
+      "color": "#ffff99",
+      "probabilities": {
+        "MODERATE_DROUGHT_RISK": 0.6037032914276342,
+        "MODERATE_FLOOD_RISK": 0,
+        "NORMAL": 0.014485142377267375,
+        "SEVERE_DROUGHT_RISK": 0.239682218177903,
+        "SEVERE_FLOOD_RISK": 0,
+        "SLIGHT_DROUGHT_RISK": 0.1373144156147564,
+        "SLIGHT_FLOOD_RISK": 0.0048149324024385366
+      }
+    },
+    {
+      "date": "2025-05-12",
+      "condition": "MODERATE_DROUGHT_RISK",
+      "confidence": 0.6037032914276342,
+      "color": "#ffff99",
+      "probabilities": {
+        "MODERATE_DROUGHT_RISK": 0.6037032914276342,
+        "MODERATE_FLOOD_RISK": 0,
+        "NORMAL": 0.014485142377267375,
+        "SEVERE_DROUGHT_RISK": 0.239682218177903,
+        "SEVERE_FLOOD_RISK": 0,
+        "SLIGHT_DROUGHT_RISK": 0.1373144156147564,
+        "SLIGHT_FLOOD_RISK": 0.0048149324024385366
+      }
+    },
+    {
+      "date": "2025-05-13",
+      "condition": "MODERATE_DROUGHT_RISK",
+      "confidence": 0.6037032914276342,
+      "color": "#ffff99",
+      "probabilities": {
+        "MODERATE_DROUGHT_RISK": 0.6037032914276342,
+        "MODERATE_FLOOD_RISK": 0,
+        "NORMAL": 0.014485142377267375,
+        "SEVERE_DROUGHT_RISK": 0.239682218177903,
+        "SEVERE_FLOOD_RISK": 0,
+        "SLIGHT_DROUGHT_RISK": 0.1373144156147564,
+        "SLIGHT_FLOOD_RISK": 0.0048149324024385366
+      }
+    },
+    {
+      "date": "2025-05-14",
+      "condition": "MODERATE_DROUGHT_RISK",
+      "confidence": 0.6037032914276342,
+      "color": "#ffff99",
+      "probabilities": {
+        "MODERATE_DROUGHT_RISK": 0.6037032914276342,
+        "MODERATE_FLOOD_RISK": 0,
+        "NORMAL": 0.014485142377267375,
+        "SEVERE_DROUGHT_RISK": 0.23968221817790294,
+        "SEVERE_FLOOD_RISK": 0,
+        "SLIGHT_DROUGHT_RISK": 0.13731441561475644,
+        "SLIGHT_FLOOD_RISK": 0.0048149324024385366
+      }
+    },
+    {
+      "date": "2025-05-15",
+      "condition": "MODERATE_DROUGHT_RISK",
+      "confidence": 0.6037032914276342,
+      "color": "#ffff99",
+      "probabilities": {
+        "MODERATE_DROUGHT_RISK": 0.6037032914276342,
+        "MODERATE_FLOOD_RISK": 0,
+        "NORMAL": 0.014485142377267375,
+        "SEVERE_DROUGHT_RISK": 0.239682218177903,
+        "SEVERE_FLOOD_RISK": 0,
+        "SLIGHT_DROUGHT_RISK": 0.1373144156147564,
+        "SLIGHT_FLOOD_RISK": 0.0048149324024385366
+      }
+    },
+    {
+      "date": "2025-05-16",
+      "condition": "MODERATE_DROUGHT_RISK",
+      "confidence": 0.6634725400532014,
+      "color": "#ffff99",
+      "probabilities": {
+        "MODERATE_DROUGHT_RISK": 0.6634725400532014,
+        "MODERATE_FLOOD_RISK": 0,
+        "NORMAL": 0.0033333333333333335,
+        "SEVERE_DROUGHT_RISK": 0.26386063868665277,
+        "SEVERE_FLOOD_RISK": 0,
+        "SLIGHT_DROUGHT_RISK": 0.06717097234125151,
+        "SLIGHT_FLOOD_RISK": 0.002162515585560928
+      }
+    },
+    {
+      "date": "2025-05-17",
+      "condition": "MODERATE_DROUGHT_RISK",
+      "confidence": 0.6634725400532014,
+      "color": "#ffff99",
+      "probabilities": {
+        "MODERATE_DROUGHT_RISK": 0.6634725400532014,
+        "MODERATE_FLOOD_RISK": 0,
+        "NORMAL": 0.0033333333333333335,
+        "SEVERE_DROUGHT_RISK": 0.26386063868665277,
+        "SEVERE_FLOOD_RISK": 0,
+        "SLIGHT_DROUGHT_RISK": 0.06717097234125151,
+        "SLIGHT_FLOOD_RISK": 0.002162515585560928
+      }
+    },
+    {
+      "date": "2025-05-18",
+      "condition": "MODERATE_DROUGHT_RISK",
+      "confidence": 0.6634725400532014,
+      "color": "#ffff99",
+      "probabilities": {
+        "MODERATE_DROUGHT_RISK": 0.6634725400532014,
+        "MODERATE_FLOOD_RISK": 0,
+        "NORMAL": 0.0033333333333333335,
+        "SEVERE_DROUGHT_RISK": 0.26386063868665277,
+        "SEVERE_FLOOD_RISK": 0,
+        "SLIGHT_DROUGHT_RISK": 0.06717097234125151,
+        "SLIGHT_FLOOD_RISK": 0.002162515585560928
+      }
+    },
+    {
+      "date": "2025-05-19",
+      "condition": "MODERATE_DROUGHT_RISK",
+      "confidence": 0.6634725400532013,
+      "color": "#ffff99",
+      "probabilities": {
+        "MODERATE_DROUGHT_RISK": 0.6634725400532013,
+        "MODERATE_FLOOD_RISK": 0,
+        "NORMAL": 0.0033333333333333335,
+        "SEVERE_DROUGHT_RISK": 0.26386063868665277,
+        "SEVERE_FLOOD_RISK": 0,
+        "SLIGHT_DROUGHT_RISK": 0.06717097234125151,
+        "SLIGHT_FLOOD_RISK": 0.002162515585560928
+      }
+    },
+    {
+      "date": "2025-05-20",
+      "condition": "MODERATE_DROUGHT_RISK",
+      "confidence": 0.6634725400532014,
+      "color": "#ffff99",
+      "probabilities": {
+        "MODERATE_DROUGHT_RISK": 0.6634725400532014,
+        "MODERATE_FLOOD_RISK": 0,
+        "NORMAL": 0.0033333333333333335,
+        "SEVERE_DROUGHT_RISK": 0.26386063868665277,
+        "SEVERE_FLOOD_RISK": 0,
+        "SLIGHT_DROUGHT_RISK": 0.06717097234125151,
+        "SLIGHT_FLOOD_RISK": 0.002162515585560928
+      }
+    },
+    {
+      "date": "2025-05-21",
+      "condition": "MODERATE_DROUGHT_RISK",
+      "confidence": 0.6634725400532014,
+      "color": "#ffff99",
+      "probabilities": {
+        "MODERATE_DROUGHT_RISK": 0.6634725400532014,
+        "MODERATE_FLOOD_RISK": 0,
+        "NORMAL": 0.0033333333333333335,
+        "SEVERE_DROUGHT_RISK": 0.26386063868665277,
+        "SEVERE_FLOOD_RISK": 0,
+        "SLIGHT_DROUGHT_RISK": 0.06717097234125151,
+        "SLIGHT_FLOOD_RISK": 0.002162515585560928
+      }
+    },
+    {
+      "date": "2025-05-22",
+      "condition": "MODERATE_DROUGHT_RISK",
+      "confidence": 0.6634725400532014,
+      "color": "#ffff99",
+      "probabilities": {
+        "MODERATE_DROUGHT_RISK": 0.6634725400532014,
+        "MODERATE_FLOOD_RISK": 0,
+        "NORMAL": 0.0033333333333333335,
+        "SEVERE_DROUGHT_RISK": 0.26386063868665277,
+        "SEVERE_FLOOD_RISK": 0,
+        "SLIGHT_DROUGHT_RISK": 0.06717097234125151,
+        "SLIGHT_FLOOD_RISK": 0.002162515585560928
+      }
+    },
+    {
+      "date": "2025-05-23",
+      "condition": "MODERATE_DROUGHT_RISK",
+      "confidence": 0.6634725400532014,
+      "color": "#ffff99",
+      "probabilities": {
+        "MODERATE_DROUGHT_RISK": 0.6634725400532014,
+        "MODERATE_FLOOD_RISK": 0,
+        "NORMAL": 0.0033333333333333335,
+        "SEVERE_DROUGHT_RISK": 0.26386063868665277,
+        "SEVERE_FLOOD_RISK": 0,
+        "SLIGHT_DROUGHT_RISK": 0.06717097234125151,
+        "SLIGHT_FLOOD_RISK": 0.002162515585560928
+      }
+    },
+    {
+      "date": "2025-05-24",
+      "condition": "MODERATE_DROUGHT_RISK",
+      "confidence": 0.6634725400532014,
+      "color": "#ffff99",
+      "probabilities": {
+        "MODERATE_DROUGHT_RISK": 0.6634725400532014,
+        "MODERATE_FLOOD_RISK": 0,
+        "NORMAL": 0.0033333333333333335,
+        "SEVERE_DROUGHT_RISK": 0.26386063868665277,
+        "SEVERE_FLOOD_RISK": 0,
+        "SLIGHT_DROUGHT_RISK": 0.06717097234125151,
+        "SLIGHT_FLOOD_RISK": 0.002162515585560928
+      }
+    },
+    {
+      "date": "2025-05-25",
+      "condition": "MODERATE_DROUGHT_RISK",
+      "confidence": 0.6634725400532014,
+      "color": "#ffff99",
+      "probabilities": {
+        "MODERATE_DROUGHT_RISK": 0.6634725400532014,
+        "MODERATE_FLOOD_RISK": 0,
+        "NORMAL": 0.0033333333333333335,
+        "SEVERE_DROUGHT_RISK": 0.26386063868665277,
+        "SEVERE_FLOOD_RISK": 0,
+        "SLIGHT_DROUGHT_RISK": 0.06717097234125151,
+        "SLIGHT_FLOOD_RISK": 0.002162515585560928
+      }
+    },
+    {
+      "date": "2025-05-26",
+      "condition": "MODERATE_DROUGHT_RISK",
+      "confidence": 0.6634725400532014,
+      "color": "#ffff99",
+      "probabilities": {
+        "MODERATE_DROUGHT_RISK": 0.6634725400532014,
+        "MODERATE_FLOOD_RISK": 0,
+        "NORMAL": 0.0033333333333333335,
+        "SEVERE_DROUGHT_RISK": 0.26386063868665277,
+        "SEVERE_FLOOD_RISK": 0,
+        "SLIGHT_DROUGHT_RISK": 0.06717097234125151,
+        "SLIGHT_FLOOD_RISK": 0.002162515585560928
+      }
+    },
+    {
+      "date": "2025-05-27",
+      "condition": "MODERATE_DROUGHT_RISK",
+      "confidence": 0.6634725400532014,
+      "color": "#ffff99",
+      "probabilities": {
+        "MODERATE_DROUGHT_RISK": 0.6634725400532014,
+        "MODERATE_FLOOD_RISK": 0,
+        "NORMAL": 0.0033333333333333335,
+        "SEVERE_DROUGHT_RISK": 0.26386063868665277,
+        "SEVERE_FLOOD_RISK": 0,
+        "SLIGHT_DROUGHT_RISK": 0.06717097234125151,
+        "SLIGHT_FLOOD_RISK": 0.002162515585560928
+      }
+    },
+    {
+      "date": "2025-05-28",
+      "condition": "MODERATE_DROUGHT_RISK",
+      "confidence": 0.6634725400532014,
+      "color": "#ffff99",
+      "probabilities": {
+        "MODERATE_DROUGHT_RISK": 0.6634725400532014,
+        "MODERATE_FLOOD_RISK": 0,
+        "NORMAL": 0.0033333333333333335,
+        "SEVERE_DROUGHT_RISK": 0.26386063868665277,
+        "SEVERE_FLOOD_RISK": 0,
+        "SLIGHT_DROUGHT_RISK": 0.06717097234125151,
+        "SLIGHT_FLOOD_RISK": 0.002162515585560928
+      }
+    },
+    {
+      "date": "2025-05-29",
+      "condition": "MODERATE_DROUGHT_RISK",
+      "confidence": 0.6634725400532014,
+      "color": "#ffff99",
+      "probabilities": {
+        "MODERATE_DROUGHT_RISK": 0.6634725400532014,
+        "MODERATE_FLOOD_RISK": 0,
+        "NORMAL": 0.0033333333333333335,
+        "SEVERE_DROUGHT_RISK": 0.26386063868665277,
+        "SEVERE_FLOOD_RISK": 0,
+        "SLIGHT_DROUGHT_RISK": 0.06717097234125151,
+        "SLIGHT_FLOOD_RISK": 0.002162515585560928
+      }
+    },
+    {
+      "date": "2025-05-30",
+      "condition": "MODERATE_DROUGHT_RISK",
+      "confidence": 0.6634725400532014,
+      "color": "#ffff99",
+      "probabilities": {
+        "MODERATE_DROUGHT_RISK": 0.6634725400532014,
+        "MODERATE_FLOOD_RISK": 0,
+        "NORMAL": 0.0033333333333333335,
+        "SEVERE_DROUGHT_RISK": 0.26386063868665277,
+        "SEVERE_FLOOD_RISK": 0,
+        "SLIGHT_DROUGHT_RISK": 0.06717097234125151,
+        "SLIGHT_FLOOD_RISK": 0.002162515585560928
+      }
+    }
+  ],
+  "chart_urls": {
+    "forecast_chart": "/charts/forecast_chart.png",
+    "probability_chart": "/charts/probability_chart.png"
+  }
+}

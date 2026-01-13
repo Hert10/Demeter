@@ -1,0 +1,122 @@
+[
+  {
+    "userId": "9c8db935-4a01-4a49-a8a3-7e8f6c6c6713",
+    "country": "Angola",
+    "region": null,
+    "coordinates": [
+      -11.8775768,
+      17.5691241
+    ],
+    "timestamp": "2025-04-22T16:53:03.834Z"
+  },
+  {
+    "userId": "9c8db935-4a01-4a49-a8a3-7e8f6c6c6713",
+    "country": "Anguilla",
+    "region": null,
+    "coordinates": [
+      18.1954947,
+      -63.0750234
+    ],
+    "timestamp": "2025-04-22T16:53:06.257Z"
+  },
+  {
+    "userId": "9c8db935-4a01-4a49-a8a3-7e8f6c6c6713",
+    "country": "Austria",
+    "region": null,
+    "coordinates": [
+      47.59397,
+      14.12456
+    ],
+    "timestamp": "2025-04-22T16:53:09.167Z"
+  },
+  {
+    "userId": "9c8db935-4a01-4a49-a8a3-7e8f6c6c6713",
+    "country": "Russia",
+    "region": "Republic of North Ossetia – Alania",
+    "coordinates": [
+      43.389081939117496,
+      44.16503906250001
+    ],
+    "timestamp": "2025-04-23T10:06:07.281Z"
+  },
+  {
+    "userId": "9c8db935-4a01-4a49-a8a3-7e8f6c6c6713",
+    "country": "France",
+    "region": "Pays de la Loire",
+    "coordinates": [
+      47.66538735632654,
+      -0.7910156250000001
+    ],
+    "timestamp": "2025-04-23T10:16:19.391Z"
+  },
+  {
+    "userId": "9c8db935-4a01-4a49-a8a3-7e8f6c6c6713",
+    "country": "Iran",
+    "region": "Razavi Khorasan",
+    "coordinates": [
+      36.527294814546245,
+      60.95214843750001
+    ],
+    "timestamp": "2025-04-23T10:34:26.477Z"
+  },
+  {
+    "userId": "9c8db935-4a01-4a49-a8a3-7e8f6c6c6713",
+    "country": "Albania",
+    "region": "Durrës",
+    "coordinates": [
+      41.313255,
+      19.4462348
+    ],
+    "timestamp": "2025-04-26T20:37:30.114Z"
+  },
+  {
+    "userId": "9c8db935-4a01-4a49-a8a3-7e8f6c6c6713",
+    "country": "France",
+    "region": "Nouvelle-Aquitaine",
+    "coordinates": [
+      44.77793589631623,
+      0.7910156250000001
+    ],
+    "timestamp": "2025-04-27T22:55:07.333Z"
+  },
+  {
+    "userId": "9c8db935-4a01-4a49-a8a3-7e8f6c6c6713",
+    "country": "Russia",
+    "region": "Tula Oblast",
+    "coordinates": [
+      53.12040528310657,
+      38.58398437500001
+    ],
+    "timestamp": "2025-04-27T22:56:50.966Z"
+  },
+  {
+    "userId": "9c8db935-4a01-4a49-a8a3-7e8f6c6c6713",
+    "country": "Andorra",
+    "region": "La Massana",
+    "coordinates": [
+      42.5442014,
+      1.5163754
+    ],
+    "timestamp": "2025-04-28T21:03:40.340Z"
+  },
+  {
+    "userId": "9c8db935-4a01-4a49-a8a3-7e8f6c6c6713",
+    "country": "Morocco",
+    "region": "Grand Casablanca",
+    "coordinates": [
+      33.5909515,
+      -7.6206991
+    ],
+    "timestamp": "2025-04-29T17:29:34.125Z"
+  },
+  {
+    "userId": "9c8db935-4a01-4a49-a8a3-7e8f6c6c6713",
+    "country": "Argentina",
+    "region": "Córdoba",
+    "coordinates": [
+      -31.7748776185074,
+      -65.11596679687501
+    ],
+    "timestamp": "2025-04-30T09:54:17.461Z"
+  }
+]

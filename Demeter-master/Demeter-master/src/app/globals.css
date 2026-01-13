@@ -1,0 +1,13 @@
+/* Leaflet container */
+.map-container {
+    height: 500px;
+    width: 100%;
+    margin: 20px 0;
+  }
+  
+  /* Leaflet-specific overrides */
+  .leaflet-container {
+    height: 100%;
+    width: 100%;
+    background: #f8f9fa;
+  }
